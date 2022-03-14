@@ -5,3 +5,4 @@ ch03/**/*.py
 *.md
 dataset/
 ch01/images
+*.DS_Store
