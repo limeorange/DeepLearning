@@ -2,6 +2,7 @@
 *.pkl
 ch02/**/*.py
 ch03/**/*.py
+ch04/**/*.py
 *.md
 dataset/
 ch01/images
