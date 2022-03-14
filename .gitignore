@@ -1,0 +1,7 @@
+# *.py
+*.pkl
+ch02/**/*.py
+ch03/**/*.py
+*.md
+dataset/
+ch01/images
