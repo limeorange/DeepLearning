@@ -8,3 +8,7 @@ dataset/
 ch01/images
 *.DS_Store
 common/
+ch05/**/*.py
+ch06/**/*.py
+ch07/**/*.py
+ch08/**/*.py
