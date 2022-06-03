@@ -1,2 +1,3 @@
-# DeepLearning
-&lt;밑바닥부터 시작하는 딥러닝, 사이토고키>
+# Book
+<span style='background-color: #fff5b1'>노란형광펜</span>
+<span style="background-color: #f6f8fa">회색형광펜</span>
