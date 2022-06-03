@@ -1,3 +1,14 @@
 # Book
-<span style='background-color: #fff5b1'>노란형광펜</span>
-<span style="background-color: #f6f8fa">회색형광펜</span>
+> 밑바닥부터 시작하는 딥러닝 (사이토 고키, 2017)
+<img width="300" alt="스크린샷 2022-06-03 오후 5 16 33" src="https://user-images.githubusercontent.com/78308684/171816206-7c72400a-ed0d-4564-95e3-a43b6c4a837d.png">
+
+# Contents
+| Chapter | Title | Code | Blog |
+|:-------:|:-----:|:----:|:----:|
+| 2 | 퍼셉트론 | [💻]() | |
+| 3 | 신경망 | [💻]() | | 
+| 4 | 신경망 학습 | [💻]() | |
+| 5 | 오차역전파법 | [💻]() | |
+| 6 | 학습 관련 기술들 | [💻]() | |
+| 7 | 합성곱 신경망(CNN) | [💻]() | |
+| 8 | 딥러닝 | [💻]() | |
