@@ -1,5 +1,5 @@
 # Book
-> 밑바닥부터 시작하는 딥러닝 (사이토 고키, 2017)
+#### 📖 밑바닥부터 시작하는 딥러닝 (사이토 고키, 2017) 
 <img width="300" alt="스크린샷 2022-06-03 오후 5 16 33" src="https://user-images.githubusercontent.com/78308684/171816206-7c72400a-ed0d-4564-95e3-a43b6c4a837d.png">
 
 # Contents
